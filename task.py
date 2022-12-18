@@ -1,5 +1,5 @@
 # Составить расписание через консольного бота
-import sys
+
 weekdays = {1: 'Monday.txt', 2: 'Tuesday.txt', 3: 'Wednesday.txt',
             4: 'Thursday.txt', 5: 'Friday.txt', 6: 'Saturday', 7: 'Sunday'}
 def add_schedule(my_weekdays):
